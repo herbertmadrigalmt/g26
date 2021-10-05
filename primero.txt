@@ -1,9 +1,9 @@
 Hola.
 
-Soy Herbert Madrigal.
+Soy el Ingeniero Herbert Madrigal.
 
 Estamos probando git + github.com
 
-Bye!
+Adios!
 
-Un mensaje faltante
+Ya el mensaje no falta
